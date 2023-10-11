@@ -1,0 +1,23 @@
+body{
+    background-image:url("https://t3.ftcdn.net/jpg/03/59/68/80/360_F_359688056_TjlQsvMEyfNxQfsXc5D3HFXwttrfPOEi.jpg");
+    text-align:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center ;
+ 
+   
+}
+NavBar{
+    background-color: gray;
+    color:white;
+}
+.card-container{
+   margin-left:20%;
+   padding:30px;
+}
+.card-container Card{
+    display:flex;
+    border:8px solid red;
+    flex-direction: row;
+    justify-content: space-around;
+}
